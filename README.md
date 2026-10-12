@@ -146,5 +146,5 @@ To clean up the rest and avoid incurring any cost:
 2. Delete the Load Balancer created in Steps 9 and 10.
 3. Open the EC2 console, go to the Security Groups section and delete the security groups created in the previous steps.
 
-Happy Learning! 🚀# Three-tier-K8S-project
+# Three-tier-K8S-project
 DevOps-Projec
